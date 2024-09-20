@@ -2,6 +2,15 @@
   // This file is not used in compilation. It is here just for a nice editor experience.
   "extends": "@tsconfig/docusaurus/tsconfig.json",
   "compilerOptions": {
-    "baseUrl": "."
-  }
+    "baseUrl": ".",
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true,
+    "types": ["@docusaurus/module-type-aliases"],
+    "paths": {
+      "@docusaurus/*": ["./node_modules/@docusaurus/*"],
+      "@theme/*": ["./node_modules/@docusaurus/theme-classic/lib/theme/*"],
+      "@site/*": ["./*"]
+    }
+  },
+  "include": ["src", "declaration.d.ts"]
 }
