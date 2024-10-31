@@ -1,6 +1,6 @@
 # 错题本
 
-### 注意list是引用还是拷贝的值
+## **注意list是引用还是拷贝的值**
 ```python
 self.res.append(self.path[:])
 ```
