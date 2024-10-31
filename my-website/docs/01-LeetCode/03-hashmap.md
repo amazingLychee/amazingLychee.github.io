@@ -1,4 +1,4 @@
-# HashMap (Dictionary) Cheat Sheet
+# HashMap (Dictionary) Cheatsheet
 
 ## **1. 基本用法**
 在Python中，HashMap由内置的数据结构`dictionary`实现。
