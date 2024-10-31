@@ -1,4 +1,4 @@
-# LeetCode String Cheatsheet
+# String Cheatsheet
 
 ## 基本操作
 
