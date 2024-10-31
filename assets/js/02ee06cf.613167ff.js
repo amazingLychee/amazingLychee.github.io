@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[6074],{1188:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"LeetCode","slug":"/category/leetcode","permalink":"/docs/category/leetcode","sidebar":"tutorialSidebar","navigation":{"next":{"title":"\u9519\u9898\u672c","permalink":"/docs/LeetCode/mistake-note"}}}}')}}]);
