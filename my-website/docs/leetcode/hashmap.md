@@ -35,6 +35,13 @@ value = my_map.get('key1')  # 如果'key1'不存在，返回None
 value = my_map.get('nonexistent_key', 'default_value')
 ```
 
+### 通过`values()`方法获得全部value
+```python
+my_map.values()
+# 输出: dict_values([['eat', 'tea'], ['tan']])
+```
+
+
 ## **3. 删除元素**
 ### **使用`del`关键字**
 ```python
